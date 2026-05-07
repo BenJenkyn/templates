@@ -12,7 +12,7 @@ You get:
 - Minimal bundle size
 - All the vite features
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+### Learn more on the [Solid Website](https://www.solidjs.com/) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
 
 ## Get started
 
